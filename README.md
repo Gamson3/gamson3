@@ -17,10 +17,10 @@ An aspiring software engineer passionate about building efficient, scalable soft
   <a href="https://linkedin.com/in/gideon-gamson" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://gideongamson.vercel.app" target="_blank" rel="noopener" style="margin-left: 10px;">
+  <a href="https://gideongamson.vercel.app" target="_blank" rel="noopener" style="margin-left: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" 
         alt="Portfolio Icon" width="40" height="35"
-        style="background-color: white;"
+        style="background-color: white; padding: 2px; border-radius: 4px;"
     />
   </a>
 </p>

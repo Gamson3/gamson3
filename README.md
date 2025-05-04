@@ -1,9 +1,9 @@
-## 👋 Hi, I'm Gamson Gideon  
+## 👋 Hi, I'm Gamson Gideon
 
 An aspiring software engineer passionate about building efficient, scalable software solutions. I love tackling real-world problems and believe in the power of code to make meaningful change.
 
 💻 Proficient in **JavaScript**, **Python**, **Java**, and **Web Development**. With growing experience in backend systems, AI, and DevOps. <br>
-🚀 Always learning and exploring new technologies to solve real-world problems.  
+🚀 Always learning and exploring new technologies to solve real-world problems.
 
 - 🔭 Currently working on a **Scrabble Word Finder** - an online Word Finder app to help users find the best and highest scoring Scrabble words
 - 🌱 Exploring the world of **Next.js**, **CI/CD**, and **scalable backend systems**.
@@ -18,13 +18,16 @@ An aspiring software engineer passionate about building efficient, scalable soft
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://gideongamson.vercel.app" target="_blank" rel="noopener" style="margin-left: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/281/281190.png" alt="Portfolio Icon" width="40" height="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" 
+        alt="Portfolio Icon" width="40" height="35"
+        style="background-color: white;"
+    />
   </a>
 </p>
 
 ---
-⭐️ *If you liked my profile, feel free to give this README a ⭐ and check out some of my projects!*
 
+⭐️ _If you liked my profile, feel free to give this README a ⭐ and check out some of my projects!_
 
 <!--
 **Gamson3/gamson3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,8 @@ An aspiring software engineer passionate about building efficient, scalable soft
 💻 Proficient in **JavaScript**, **Python**, **Java**, and **Web Development**. With growing experience in backend systems, AI, and DevOps. <br>
 🚀 Always learning and exploring new technologies to solve real-world problems.
 
-- 🔭 Currently working on a **Scrabble Word Finder** - an online Word Finder app to help friends and I find the best and highest scoring Scrabble words
+- 🔭 Currently working on a **Scrabble Word Finder** - an online Word Finder app to help friends and I find the best and highest scoring Scrabble words.
+- ⚡ I recently built a **Movie box web application** which is kinda an improved version of [MovieHive](https://movie-hive-two.vercel.app/). check it out here [Movie Box App](https://movie-box-app-brown.vercel.app/)
 - 🌱 Exploring the world of **Next.js**, **CI/CD**, and **scalable backend systems**.
 - 💬 Ask me about Web dev, Python, or how to survive final-year projects 😄
 - 📫 How to reach me: [99.gamson@gmail.com](mailto:99.gamson@gmail.com)
